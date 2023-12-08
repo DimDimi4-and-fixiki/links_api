@@ -1,5 +1,4 @@
-#FROM andrejreznik/python-gdal:py3.10.0-gdal3.2.3
-FROM aleontiev/agrocode_api:ver_pandas_1
+FROM python:3.10
 
 ENV PYTHONUNBUFFERED 1
 ENV PYTHONDONTWRITEBYTECODE 1

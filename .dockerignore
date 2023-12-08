@@ -1,0 +1,13 @@
+.dockerignore
+.idea
+.venv
+.env
+.env.dev
+.coverage
+.scannerwork
+*.xml
+__pycache__/
+**/__pycache__
+*.pyc
+logs
+.DS_Store
